@@ -1,6 +1,6 @@
 ---
 abstract: |
-    Lesmodule voor leerlingen in de bovenbouw van het VWO. Ontworpen tijdens het vak BTOI 📝.
+    Een wiskundemodule voor leerlingen in de bovenbouw van het VWO over robotnavigatie. Ontworpen tijdens het vak BTOI 📝.
 ---
 
 # Inleiding
