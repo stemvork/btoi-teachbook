@@ -3,21 +3,21 @@ project:
   
   authors:
     - id: student
-      name: student without a name yet
+      name: J.S. (Jasper) Eenhoorn
       affiliations:
         - tud
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: R. Ockhorst
       affiliations:
         - tud
     - id: committee-1
-      name: Prof. Dr. C. Examiner
+      name: J.G. Spandaw
       affiliations:
         - tud
     - id: committee-2
-      name: Dr. D. Examiner
+      name: t.b.d.
       affiliations:
         - tud
 
