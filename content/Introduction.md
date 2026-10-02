@@ -8,6 +8,13 @@ abstract: |
 Op basis van het paper :memo: heb ik de volgende concept map gemaakt. Hierin worden de kernconcepten van het onderzoek met elkaar in verband gebracht.
 
 ![](../figures/BeeNav.drawio.svg)
+```{figure} https://github.com/stemvork/btoi-teachbook/blob/main/content/figures/BeeNav.drawio.svg?raw=true
+:label: concept-map
+:alt: Concept map of the BeeNav paper
+:align: center
+
+Kernconcepten uit het BeeNav paper en de verbanden ertussen.
+```
 
 Vervolgens heb ik de volgende vragen en associaties opgeschreven:
 - Welke andere robotnavigatiestrategieën zijn er?
