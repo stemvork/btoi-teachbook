@@ -1,9 +1,8 @@
----
-kernelspec:
-  name: python3
-  display_name: 'Python 3'
----
-# Theory
+# Examenopgave
+
+:memo:
+
+<!-- 
 
 We can have inline equations like $E=mc^2$ or display equations like:
 
@@ -20,3 +19,4 @@ We can link to equations using their labels, like equation {numref}`schrodinger`
 Check the hover-over functionality for these links!
 ```
 
+-->
