@@ -6,7 +6,7 @@ project:
     #   children:
     #     - file: content/firststeps.md
     - file: content/Introduction.md
-    - file: content/Theory.md
+    - file: content/Examenopgave.md
     - file: content/Methods.md
     - file: content/Results.ipynb
     - file: content/Conclusion.md
