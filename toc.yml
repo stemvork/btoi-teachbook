@@ -7,9 +7,9 @@ project:
     #     - file: content/firststeps.md
     - file: content/Introduction.md
     - file: content/Examenopgave.md
-    - file: content/Methods.md
-    - file: content/Results.ipynb
-    - file: content/Conclusion.md
+    # - file: content/Methods.md
+    # - file: content/Results.ipynb
+    # - file: content/Conclusion.md
     # - title: Appendix
     #   children:
     #     - file: content/Cheatsheet.md
