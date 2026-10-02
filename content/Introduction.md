@@ -1,29 +1,33 @@
 ---
+abstract: |
+    Lesmodule voor leerlingen in de bovenbouw van het VWO. Ontworpen tijdens het vak BTOI 📝.
+---
+
+# Inleiding
+
+Op basis van het paper :memo: heb ik de volgende concept map gemaakt. Hierin worden de kernconcepten van het onderzoek met elkaar in verband gebracht.
+
+![../figures/BeeNav.drawio.svg]()
+
+Vervolgens heb ik de volgende vragen en associaties opgeschreven:
+- Welke andere robotnavigatiestrategieën zijn er?
+- Wat zijn constraints?
+- Hoe draagt dit onderzoek bij (🐝) aan vooruitgang?
+- Optellen van stukjes, verschillende variabelen en referentiekaders, associatie met resultante (bijv. bij kracht).
+- Brownian motion, random walk, melkdeeltjes, normale verdeling, standaardafwijking.
+- Vectoren optellen, aftrekken, tegengestelde vector, rotatie.
+- Expliciet/verbaal geheugen versus impliciet/associatief geheugen.
+- Soorten neurale netwerken, convolutie, attention, lagen, rekenwerk, insecten, grafenleer, zoek de verschillen.
+- Ontwerpen, simulaties, formules, principes.
+- Omvang van leergebied, verhouding tot vlieggebied.
+- Communicatie tussen bijen, rollen, leven, taken, roofdieren.
+- Swarms van robots, eerder onderzoek, vervolgonderzoek.
+
+<!--
 kernelspec:
   name: python3
   display_name: 'Python 3'
-
-abstract: |
-    In this demo, we demonstrate how Jupyter Book can be used to create and publish a content rich paper that includes 
-    interactive elements such as code cells, visualizations, and multimedia. We will walk through the process of setting 
-    up a Jupyter Book, adding content, and deploying the final product online.
----
-
-# Introduction
-
-Jupyter Book has been rebuild from ground up using the MyST engine [@doi:10.25080/hwcj9957]. This allows to export content in multiple output formats including HTML, PDF and docx. In this paper we present an overview of the possibilities and demonstrate its working.
-
-In an introduction. you often cite. Than can be done in various ways, either using a .bib file or directly using the doi.
-
-**cite with doi**
-- `[@doi:10.25080/hwcj9957]` resulting in [@doi:10.25080/hwcj9957]
-- `@doi:10.25080/hwcj9957` resulting in @doi:10.25080/hwcj9957
-
-**cite from bib-file**
-- `{cite:t}`jupyter2025`` resulting in {cite:t}`jupyter2025`
-- `{cite:p}`jupyter2025`` resulting in {cite:p}`jupyter2025`
-
-
+  
 ## Background
 Jupyter Book has been rebuild with the intend to export content in multiple output formats including HTML, PDF and docx. {numref}`Figure {number} <fig-diagram>` provides this idea.
 
@@ -46,3 +50,4 @@ A figure that is in the website but not in the PDF version.
 +++
 
 Moreover, sometimes you want to have content [only showing up](xref:myst-guide/creating-pdf-documents#including-content-with-specific-exports) in the pdf, if you use Typst you can use of a block `+++{raw:typst}` and for LaTeX `+++{raw:latex}`. 
+-->
