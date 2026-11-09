@@ -2,13 +2,13 @@
 
 ## Over deze module
 
-In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijk tijdschrift Nature. 
+In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
 
 De centrale vraag is:
 
-**Hoe nauwkeurig moet de navigatie van een robot zijn om weer in het geleerde thuisgebied terecht te komen?**
+**Hoe nauwkeurig moet de navigatie van een drone zijn om weer in het geleerde thuisgebied terecht te komen?**
 
-Door voorspellingen te doen, modellen op te stellen en verfijnen en door berekeningen leren we nieuwe wiskundige kennis en vaardigheden (vectoren, modelleren) in een rijke context.
+Door voorspellingen te doen, modellen op te stellen en te verfijnen en door berekeningen leren we nieuwe wiskundige kennis en vaardigheden (vectoren, modelleren) in een rijke context.
 
 ## Wat leer je?
 
@@ -27,7 +27,7 @@ Na deze module kun je onder andere:
 Je leert:
 
 - aannames herkennen en formuleren;
-- een werkelijke situatie vereenvoudigen tot een wiskundig model;
+- een werkelijke situatie eerst vereenvoudigen tot een conceptueel model en daarna uitwerken tot een wiskundig model;
 - vooraf voorspellen wat je verwacht;
 - variabelen systematisch onderzoeken;
 - resultaten terugvertalen naar het oorspronkelijke probleem;
@@ -37,13 +37,13 @@ Je leert:
 ### Wetenschappelijk onderzoek
 Je leert op hoofdlijnen:
 
-- welk navigatieprobleem Bee-Nav probeert op te lossen;
+- welk navigatieprobleem BeeNav probeert op te lossen;
 - wat padintegratie en drift betekenen;
 - hoe visuele informatie kan helpen bij het terugvinden van een thuislocatie;
-- onderscheid maken tussen de echte robot, ons lesmodel en de uitkomsten van een simulatie.
+- onderscheid maken tussen de echte drone, ons lesmodel en de uitkomsten van een simulatie.
 
 # Deel 1 – Waar is thuis?
-# Deel 2 – Waar denkt de robot dat hij is?
-# Deel 3 – Wijst de robot de goede kant op?
+# Deel 2 – Waar denkt de drone dat hij is?
+# Deel 3 – Wijst de drone de goede kant op?
 # Deel 4 – Hoe nauwkeurig moet de navigatie zijn?
 # Deel 5 – Wanneer werkt ons model niet meer?

@@ -14,7 +14,7 @@ Voor het onderwijsontwerp is een beperkte selectie uit deze wetenschappelijke co
 ### 2.2 Biologische inspiratie
 ### 2.3 Padintegratie
 ### 2.4 Drift
-### 2.5 Visuele navigatie in Bee-Nav
+### 2.5 Visuele navigatie in BeeNav
 ### 2.6 Samenwerking tussen navigatiestrategieën
 ### 2.7 Grenzen van de interpretatie
 
@@ -33,13 +33,13 @@ Voor het onderwijsontwerp is een beperkte selectie uit deze wetenschappelijke co
 ## 5. Didactische probleemverkenning
 
 ### 5.1 Vectorbegrip en representaties
-Onderzoek laat zien dat leerlingen vooral de pijl-representatie lastig kunnen vinden en dat niet alle leerlingen niet soepel schakelen tussen verschillende representaties.
+Onderzoek laat zien dat leerlingen vooral de pijl-representatie lastig kunnen vinden en dat niet alle leerlingen soepel schakelen tussen verschillende representaties.
 
 ### 5.2 Vector, lengte en scalar
 Leerlingen zijn geneigd een vector te verwarren met zijn lengte of andere eigenschappen van de vector. Wanneer zijn twee vectoren gelijk? En zijn zij dan ook op dezelfde plaats? Leerlingen geven soms een vector als antwoord waar een scalar wordt verwacht en andersom.
 
 ### 5.3 Betekenisvolle introductie van het inproduct
-De hoek tussen twee vectoren en de hoek richting het thuisgebied bieden kansen om het inproduct betekenisvol te introduceren. Zowel wiskundig als contextueel.
+De hoek tussen twee vectoren, bijv. de hoek tussen de geschatte en werkelijke thuisvector, biedt kansen om het inproduct betekenisvol te introduceren. Zowel wiskundig als contextueel.
 
 ### 5.4 Modelleren
 
@@ -50,10 +50,10 @@ Voorlopige ontwerpprincipes:
 1. vectoren eerst betekenis geven als verplaatsingen;
 2. verschillende representaties verbinden;
 3. voorspellingen vooraf laten gaan aan rekenen en redeneren;
-4. verwachte misconcepties diagnosticeren;
+4. verwachte misconcepties diagnosticeren en daarop handelen;
 5. de modelleercyclus meerdere keren doorlopen;
-6. onderscheid maken tussen werkelijkheid, lesmodel en experiment;
-7. leren actief maken en leren zichtbaar maken.
+6. onderscheid maken tussen werkelijkheid, model en simulatie;
+7. leren actief maken (voorspellen, onderzoeken, verklaren) en redeneringen zichtbaar maken.
 
 Per principe wordt in de definitieve versie beschreven:
 
