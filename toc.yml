@@ -7,6 +7,10 @@ project:
     #     - file: content/firststeps.md
     - file: content/Introduction.md
     - file: content/Examenopgave.md
+    - file: content/Leerlinghandleiding.md
+    - file: content/Docenthandleiding.md
+    - file: content/Expertrapport.md
+
     # - file: content/Methods.md
     # - file: content/Results.ipynb
     # - file: content/Conclusion.md
