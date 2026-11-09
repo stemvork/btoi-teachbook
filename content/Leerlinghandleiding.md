@@ -1,4 +1,4 @@
-# BeeNav – Kom ik nog thuis?
+# BeeNav – Kom ik nog thuis? (Leerlinghandleiding)
 
 ## Over deze module
 

@@ -1,5 +1,4 @@
-# BeeNav – Kom ik nog thuis?
-## Docentenhandleiding
+# BeeNav – Kom ik nog thuis? (Docentenhandleiding)
 
 ## 1. Doel en positionering
 

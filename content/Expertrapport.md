@@ -1,4 +1,4 @@
-# BeeNav – Wetenschappelijk en didactisch verantwoordingsverslag
+# BeeNav – Expertrapport
 
 ## 1. Inleiding
 
