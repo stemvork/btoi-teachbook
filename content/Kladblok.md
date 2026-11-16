@@ -72,8 +72,6 @@ Eindterm 21 bevat een verplicht deel in vijf bullets, hier uitgewerkt tot leerdo
 
 #### B. Rekenen met vectoren
 > rekenen met vectoren: optellen en scalair vermenigvuldigen;
->
-> vectoren gebruiken om een evenwichtsstand (red. resultante) uit de natuurkunde te beschrijven.
 4.  De leerling telt vectoren op en trekt ze af, zowel meetkundig (kop-staart, parallellogram) als met kentallen, en legt uit waarom beide methodes hetzelfde opleveren.
 5.  De leerling vermenigvuldigt een vector met een scalair, inclusief negatieve scalairen, en interpreteert dat als oprekken/inkrimpen en omkeren; bepaalt een eenheidsvector (normeren).
 6.  De leerling gebruikt vectoren om verplaatsingen te combineren: de verbindingsvector $\overrightarrow{AB} = \vec{b} − \vec{a}$, en een som van verplaatsingen $\vec{t}=\vec{a}+\vec{b}+\vec{c}+\ldots$ (resultante).
@@ -94,8 +92,24 @@ Eindterm 21 bevat een verplicht deel in vijf bullets, hier uitgewerkt tot leerdo
 > de relatie tussen de plaats-, snelheids- en versnellingsvector bespreken;
 > 
 > vectoren gebruiken bij probleemsituaties;
+>
+> vectoren gebruiken om een evenwichtsstand (red. som van de krachten is de nulvector) uit de natuurkunde te beschrijven.
 11.  De leerling beschrijft beweging met plaats-, snelheids- en versnellingsvector: de snelheidsvector als verandering van plaats per tijd (raakt aan de baan), de versnellingsvector als verandering van snelheid per tijd, en herkent dat een versnelling ook bij constante snelheid kan optreden (bocht).
 12.  De leerling modelleert een probleemsituatie met vectoren (bijv. navigatie, krachtenevenwicht: de som van de krachtvectoren is de nulvector) en controleert of de uitkomst past bij de context.
 
 ### Eerste toevoegingen expertrapport
+
+### Video over Bee-Nav
+[Efficient robot navigation inspired by honeybee learning flights](https://www.youtube.com/watch?v=Og6wvKqWLow)
+
+Voordelen:
+- Visueel aantrekkelijk en gevarieerd (LEGO, experiment, foto's)
+- Kort en krachtig, snel kennismaken met de concepten
+- In samenwerking met de auteurs van het paper
+
+Nadelen:
+- Computerstem
+- Engelstalig en vaktermen worden niet verder toegelicht (bijv. odometry)
+- Achtergrondmuziek
+
 
