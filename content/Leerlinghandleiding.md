@@ -15,7 +15,7 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 ## Wat leer je?
 
 ### Vectoren
-:::dropdown Na deze module kun je onder andere:
+:::{note dropdown} Na deze module kun je onder andere:
 
 - een vector interpreteren als een grootheid met lengte en richting;
 - vectoren weergeven als pijlen en met kentallen;
