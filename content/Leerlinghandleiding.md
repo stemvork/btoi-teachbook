@@ -4,7 +4,7 @@
 
 In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
 
-:::{admonition} De centrale vraag is:
+:::{admonition} De centrale vraag
 **Hoe nauwkeurig moet de navigatie van een drone zijn om weer in het geleerde thuisgebied terecht te komen?**
 :::
 

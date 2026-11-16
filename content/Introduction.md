@@ -5,7 +5,7 @@ abstract: |
 
 # Inleiding
 
-Op basis van het paper [Efficient robot navigation inspired by honeybee learning flights (2026)](https://www.nature.com/articles/s41586-026-10461-3) heb ik de volgende concept map gemaakt. Hierin worden de kernconcepten van het onderzoek met elkaar in verband gebracht. Voor de doelgroep "vwo techniek (vanaf 2029)" zijn daarna ter verkenning een aantal examenopgaven :pencil: opgesteld. Op basis van een aantal ontwerpprincipes :pencil: heb ik daarna een leerdoelenlijst, lesmaterialen en opgaven ontworpen.
+Op basis van het paper [Efficient robot navigation inspired by honeybee learning flights (2026)](https://www.nature.com/articles/s41586-026-10461-3) heb ik de volgende concept map gemaakt. Hierin worden de kernconcepten van het onderzoek met elkaar in verband gebracht. Voor de doelgroep "vwo techniek (vanaf 2029)" zijn daarna ter verkenning een aantal examenopgaven 📝 opgesteld. Op basis van een aantal ontwerpprincipes 📝 heb ik daarna een leerdoelenlijst, lesmaterialen en opgaven ontworpen.
 
 ```{figure} https://github.com/stemvork/btoi-teachbook/blob/main/content/figures/BeeNav.drawio.svg?raw=true
 :label: concept-map
@@ -15,7 +15,8 @@ Op basis van het paper [Efficient robot navigation inspired by honeybee learning
 Kernconcepten uit het BeeNav paper en de verbanden ertussen.
 ```
 
-:::{note dropdown} Enkele vragen en associaties
+````{admonition} Enkele vragen en associaties
+:class: note dropdown
 - Welke andere robotnavigatiestrategieën zijn er?
 - Wat zijn constraints?
 - Hoe draagt dit onderzoek bij (🐝) aan vooruitgang?
@@ -28,4 +29,4 @@ Kernconcepten uit het BeeNav paper en de verbanden ertussen.
 - Omvang van leergebied, verhouding tot vlieggebied.
 - Communicatie tussen bijen, rollen, leven, taken, roofdieren.
 - Swarms van robots, eerder onderzoek, vervolgonderzoek.
-:::
+````
