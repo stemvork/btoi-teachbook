@@ -10,6 +10,7 @@ project:
     - file: content/Leerlinghandleiding.md
     - file: content/Docentenhandleiding.md
     - file: content/Expertrapport.md
+    - file: content/Kladblok.md
 
     # - file: content/Methods.md
     # - file: content/Results.ipynb
