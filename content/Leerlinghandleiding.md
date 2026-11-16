@@ -14,10 +14,10 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 
 ## Wat leer je?
 
-### Vectoren
-````{admonition} Na deze module kun je onder andere:
+````{admonition} Vectoren
 :class: note dropdown
 
+Na deze module kun je onder andere:
 - een vector interpreteren als een grootheid met lengte en richting;
 - vectoren weergeven als pijlen en met kentallen;
 - verplaatsings- en thuisvectoren opstellen;
@@ -27,7 +27,9 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 - het inproduct berekenen en gebruiken om hoeken tussen vectoren te onderzoeken.
 ````
 
-### Modelleren
+````{admonition} Modelleren
+:class: note dropdown
+
 Je leert:
 
 - aannames herkennen en formuleren;
@@ -37,8 +39,11 @@ Je leert:
 - resultaten terugvertalen naar het oorspronkelijke probleem;
 - beoordelen wat een model wel en niet laat zien;
 - een model op basis van resultaten bijstellen.
+````
 
-### Wetenschappelijk onderzoek
+````{admonition} Wetenschappelijk onderzoek
+:class: note dropdown
+
 Je leert op hoofdlijnen:
 
 - welk navigatieprobleem BeeNav probeert op te lossen;
@@ -47,6 +52,7 @@ Je leert op hoofdlijnen:
 - onderscheid maken tussen de echte drone, ons lesmodel en de uitkomsten van een simulatie.
 
 [](xref:concept-map)
+````
 
 # Deel 1 – Waar is thuis?
 # Deel 2 – Waar denkt de drone dat hij is?
