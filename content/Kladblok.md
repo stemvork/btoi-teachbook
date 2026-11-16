@@ -59,5 +59,43 @@ Hier is ruimte voor allerlei afrondingen: vergelijken van verschillende modellen
 
 ### Definitieve leerdoelen en succescriteria
 
+Eindterm 21 bevat een verplicht deel in vijf bullets, hier uitgewerkt tot leerdoelen 1 t/m 9 met door mij opgestelde succescriteria. De volgorde is soms iets anders, maar per groep staat geciteerd welke bolletjes worden gedekt. Daarnaast staan er bullets met "te denken valt aan" die hierin voor nu ook zijn meegenomen als leerdoel 10 t/m 12.
+
+
+#### A. De vector als object
+> een vector interpreteren als een object met lengte en richting en typeren in termen van richtingshoek en kentallen;
+>
+> berekenen van de lengte van een vector;
+1.  De leerling legt uit dat een vector een object is met lengte en richting, los van de plek waar de pijl getekend wordt (vrije vector), en onderscheidt een vector van een punt met coördinaten en van een getal (scalair).
+2.  De leerling beschrijft een vector op drie manieren en wisselt daartussen: als pijl, met kentallen $\begin{pmatrix}x\\ y\end{pmatrix}$ en met lengte + richtingshoek (poolvorm).
+3.  De leerling berekent de lengte van een vector uit de kentallen met Pythagoras, en de kentallen uit lengte en richtingshoek met $x=|v|\cdot\cos(\varphi)$, $y=|v|\cdot\sin(\varphi)$; en omgekeerd de richtingshoek uit de kentallen, met de arctangens en het juiste kwadrant.
+
+#### B. Rekenen met vectoren
+> rekenen met vectoren: optellen en scalair vermenigvuldigen;
+>
+> vectoren gebruiken om een evenwichtsstand (red. resultante) uit de natuurkunde te beschrijven.
+4.  De leerling telt vectoren op en trekt ze af, zowel meetkundig (kop-staart, parallellogram) als met kentallen, en legt uit waarom beide methodes hetzelfde opleveren.
+5.  De leerling vermenigvuldigt een vector met een scalair, inclusief negatieve scalairen, en interpreteert dat als oprekken/inkrimpen en omkeren; bepaalt een eenheidsvector (normeren).
+6.  De leerling gebruikt vectoren om verplaatsingen te combineren: de verbindingsvector $\overrightarrow{AB} = \vec{b} − \vec{a}$, en een som van verplaatsingen $\vec{t}=\vec{a}+\vec{b}+\vec{c}+\ldots$ (resultante).
+
+#### C. Lijnen
+> beschrijven van lijnen in het vlak met vectorvoorstellingen;
+7.  De leerling stelt een vectorvoorstelling op van een lijn (steunvector + λ · richtingsvector), interpreteert de parameter λ, en zet om naar een vergelijking $ax + by = c$ en terug.
+8.  De leerling bepaalt met vectorvoorstellingen het snijpunt van twee lijnen of toont aan dat ze evenwijdig zijn of samenvallen.
+
+#### D. Inproduct en hoek
+> berekenen van het inproduct van twee vectoren en de hoek tussen twee vectoren.
+>
+> onderzoeken of twee lijnen elkaar loodrecht snijden;
+9.  De leerling berekent het inproduct met kentallen en via $|a|\dot|b|\cdot\cos(\varphi)$, berekent daarmee de hoek tussen twee vectoren, weet dat de uitkomst van het inproduct een getal is, en interpreteert het inproduct als (lengte maal) projectie.
+10.  De leerling onderzoekt met het inproduct of twee lijnen of vectoren loodrecht op elkaar staan (inproduct = 0) en gebruikt een normaalvector van een lijn.
+
+#### E. Toepassen in contexten
+> de relatie tussen de plaats-, snelheids- en versnellingsvector bespreken;
+> 
+> vectoren gebruiken bij probleemsituaties;
+11.  De leerling beschrijft beweging met plaats-, snelheids- en versnellingsvector: de snelheidsvector als verandering van plaats per tijd (raakt aan de baan), de versnellingsvector als verandering van snelheid per tijd, en herkent dat een versnelling ook bij constante snelheid kan optreden (bocht).
+12.  De leerling modelleert een probleemsituatie met vectoren (bijv. navigatie, krachtenevenwicht: de som van de krachtvectoren is de nulvector) en controleert of de uitkomst past bij de context.
+
 ### Eerste toevoegingen expertrapport
 
