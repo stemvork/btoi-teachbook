@@ -1,4 +1,4 @@
-# BeeNav – Expertrapport
+# Expertrapport
 
 ## 1. Inleiding
 

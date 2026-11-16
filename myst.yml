@@ -1,7 +1,7 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: Kom ik nog thuis?
+  title: BeeNav - Kom ik nog thuis?
   # description:
   keywords: [robot, navigatie, efficient, honingbij, leervluchten, biomimicrie, wiskunde]
 
