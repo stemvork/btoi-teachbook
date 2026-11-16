@@ -4,16 +4,18 @@
 
 In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
 
-De centrale vraag is:
-
+:::{admonition} De centrale vraag is:
 **Hoe nauwkeurig moet de navigatie van een drone zijn om weer in het geleerde thuisgebied terecht te komen?**
+:::
 
-Door voorspellingen te doen, modellen op te stellen en te verfijnen en door berekeningen leren we nieuwe wiskundige kennis en vaardigheden (vectoren, modelleren) in een rijke context.
+Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door berekeningen leer je nieuwe wiskundige kennis en vaardigheden (vectoren, modelleren) in een rijke context.
+
+# Leerdoelen
 
 ## Wat leer je?
 
 ### Vectoren
-Na deze module kun je onder andere:
+:::dropdown Na deze module kun je onder andere:
 
 - een vector interpreteren als een grootheid met lengte en richting;
 - vectoren weergeven als pijlen en met kentallen;
@@ -22,6 +24,7 @@ Na deze module kun je onder andere:
 - de lengte en richting van een vector bepalen;
 - routes beschrijven met vectorvoorstellingen;
 - het inproduct berekenen en gebruiken om hoeken tussen vectoren te onderzoeken.
+:::
 
 ### Modelleren
 Je leert:
@@ -41,6 +44,8 @@ Je leert op hoofdlijnen:
 - wat padintegratie en drift betekenen;
 - hoe visuele informatie kan helpen bij het terugvinden van een thuislocatie;
 - onderscheid maken tussen de echte drone, ons lesmodel en de uitkomsten van een simulatie.
+
+[](xref:concept-map)
 
 # Deel 1 – Waar is thuis?
 # Deel 2 – Waar denkt de drone dat hij is?

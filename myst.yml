@@ -1,9 +1,9 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: Mathematics of Robot Navigation
+  title: Kom ik nog thuis?
   # description:
-  keywords: [robot, navigation, efficient, honeybee, learning, flights, biomimicry, mathematics, Jupyter Book, Open Science, TU Delft, Starterkit]
+  keywords: [robot, navigatie, efficient, honingbij, leervluchten, biomimicrie, wiskunde]
 
   github: https://github.com/stemvork/btoi-teachbook
   date: 2026-08-02
@@ -61,6 +61,6 @@ site:
   # custom parts
   parts:
     footer:       style/footer.md
-    banner:       Visit our new website at [https://jboss.tudelft.nl](https://jboss.tudelft.nl) for the latest updates and resources! See also our newest [Typst template](https://github.com/TUD-JB-OS/typst_template.git) version
+    # banner:       Visit our new website at [https://jboss.tudelft.nl](https://jboss.tudelft.nl) for the latest updates and resources! See also our newest [Typst template](https://github.com/TUD-JB-OS/typst_template.git) version
     navbar_end:   style/navbar_end.md
 # 
