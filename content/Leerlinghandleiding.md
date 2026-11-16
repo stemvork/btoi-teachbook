@@ -15,7 +15,8 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 ## Wat leer je?
 
 ### Vectoren
-:::{note dropdown} Na deze module kun je onder andere:
+````{admonition} Na deze module kun je onder andere:
+:class: note dropdown
 
 - een vector interpreteren als een grootheid met lengte en richting;
 - vectoren weergeven als pijlen en met kentallen;
@@ -24,7 +25,7 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 - de lengte en richting van een vector bepalen;
 - routes beschrijven met vectorvoorstellingen;
 - het inproduct berekenen en gebruiken om hoeken tussen vectoren te onderzoeken.
-:::
+````
 
 ### Modelleren
 Je leert:
