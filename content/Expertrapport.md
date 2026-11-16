@@ -14,7 +14,7 @@ Voor het onderwijsontwerp is een beperkte selectie uit deze wetenschappelijke co
 ### 2.2 Biologische inspiratie
 ### 2.3 Padintegratie
 ### 2.4 Drift
-### 2.5 Visuele navigatie in BeeNav
+### 2.5 Visuele navigatie in Bee-Nav
 ### 2.6 Samenwerking tussen navigatiestrategieën
 ### 2.7 Grenzen van de interpretatie
 

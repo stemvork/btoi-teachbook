@@ -2,7 +2,7 @@
 
 ## Over deze module
 
-In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
+In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de Bee-Nav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
 
 :::{hint} De centrale vraag
 **Hoe nauwkeurig moet de navigatie van een drone zijn om weer in het geleerde thuisgebied terecht te komen?**
@@ -40,7 +40,7 @@ Je leert:
 :::{note .dropdown open=true} Wetenschappelijk onderzoek
 Je leert op hoofdlijnen:
 
-- welk navigatieprobleem BeeNav probeert op te lossen;
+- welk navigatieprobleem Bee-Nav probeert op te lossen;
 - wat padintegratie en drift betekenen;
 - hoe visuele informatie kan helpen bij het terugvinden van een thuislocatie;
 - onderscheid maken tussen de echte drone, ons lesmodel en de uitkomsten van een simulatie.

@@ -9,10 +9,10 @@ Op basis van het paper [Efficient robot navigation inspired by honeybee learning
 
 ```{figure} https://github.com/stemvork/btoi-teachbook/blob/main/content/figures/BeeNav.drawio.svg?raw=true
 :label: concept-map
-:alt: Concept map of the BeeNav paper
+:alt: Concept map of the Bee-Nav paper
 :align: center
 
-Kernconcepten uit het BeeNav paper en de verbanden ertussen.
+Kernconcepten uit het Bee-Nav paper en de verbanden ertussen.
 ```
 
 :::{note .dropdown open=true} Enkele vragen en associaties

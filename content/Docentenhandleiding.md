@@ -4,7 +4,7 @@
 
 Deze module is ontworpen voor het toekomstige vwo-vak **wiskunde techniek**. De kern bestaat uit minimaal tien uur onderwijs rond vectoren en wiskundig modelleren.
 
-De wetenschappelijke context is BeeNav, een robotnavigatiestrategie geïnspireerd door de leervluchten van honingbijen.
+De wetenschappelijke context is Bee-Nav, een robotnavigatiestrategie geïnspireerd door de leervluchten van honingbijen.
 
 ## 2. Curriculumaansluiting
 
@@ -81,7 +81,7 @@ Aan het eind van de module moet kunnen worden vastgesteld of de leerling:
 
 1. de relevante vectorleerdoelen beheerst;
 2. een probleemsituatie kan conceptualiseren, mathematiseren, onderzoeken, interpreteren en het model kan beoordelen of bijstellen;
-3. de belangrijkste principes uit BeeNav kan uitleggen en onderscheid kan maken tussen resultaten uit de lessen en de wetenschappelijke conclusies.
+3. de belangrijkste principes uit Bee-Nav kan uitleggen en onderscheid kan maken tussen resultaten uit de lessen en de wetenschappelijke conclusies.
 
 ## 11. Achtergrondinformatie voor de docent
 ## 12. Benodigdheden en implementatie

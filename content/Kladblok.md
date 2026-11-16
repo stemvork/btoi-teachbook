@@ -6,7 +6,7 @@ Ik heb van alles op papier uitgewerkt en overwogen, vandaag (maandag 16 november
 ### Globale lessenindeling
 1. (Evalueren) Kom ik nog thuis? Wat weet ik al?
 
-In deze les wordt de voorkennis opgehaald en besproken, waaronder coördinaten, Pythagoras en goniometrie. Leerlingen maken kennis met BeeNav en de centrale vraag door middel van een video met kijkvragen. Tot slot is er aandacht voor (een deel van) de TUV diagnostische voortoets.
+In deze les wordt de voorkennis opgehaald en besproken, waaronder coördinaten, Pythagoras en goniometrie. Leerlingen maken kennis met Bee-Nav en de centrale vraag door middel van een video met kijkvragen. Tot slot is er aandacht voor (een deel van) de TUV diagnostische voortoets.
 
 2. (Engageren) Waarom komt een bij of drone nooit precies thuis met padintegratie alleen?
 
@@ -54,6 +54,11 @@ Hier is ruimte voor allerlei afrondingen: vergelijken van verschillende modellen
 
 ### Twee tot vijf lessen volledig uitgewerkt
 
+#### Les 1
+#### Les 2
+#### Les 3
+#### Les 4
+#### Les 5
 
 ### Examenopgave feedback Jeroen verwerken
 
@@ -112,4 +117,38 @@ Nadelen:
 - Engelstalig en vaktermen worden niet verder toegelicht (bijv. odometry)
 - Achtergrondmuziek
 
+### Prioriteiten voor 10 uur wiskunde-onderwijs
+Eerste prioriteit is een goede implementatie van eindterm 21 die past bij het paper (dus ik mag iets schrappen als het echt niet fijn past bij het paper). Dit noem ik `must-have`. Daarna dingen die passen als de lessen op tijd lopen `should-have`. Verdiepingen en zijsporen zijn `could-have`. Tot slot zijn `won't-have` de zaken die buiten de module vallen vanwege de omvang of gebrek aan aansluiting, op basis van wat ik nu inschat. (Deze prioritering volgt dus het MoSCoW principe.)
 
+Must-have:
+- V1 Vector als object (les 2, 3)
+- V2 Pijl, kentallen, poolvorm (les 3)
+- V3 Lengte, richtingshoek (les 3)
+- V4 Optellen, aftrekken (les 4, 7)
+- V5 Scalair, eenheidsvector (les 4)
+- V6 Verplaatsingen combineren (les 4)
+- V9 Inproduct en hoek (les 5, 6, 8)
+- V7 Vectorvoorstelling lijn (les 8, 11)
+- M1 Aannames (les 2, 7, 10)
+- M2 Wiskundig maken (les 3, 7, 8)
+- M3 Voorspellen, onderzoeken (les 1, 6, 9)
+- M4 Interpreteren, rapporteren (les 8, 10, 12)
+- W1 Bee-Nav uitleggen (les 1, 2, 10)
+
+Should-have:
+- V10 Loodrecht, normaalvector (les 6)
+- V12 Modelleren met vectoren en krachten (les 9, 10)
+- W2 Echt systeem, lesmodel, simulatie (les 7, 9, 10)
+
+Could-have:
+- V11 Verplaatsing = snelheid x tijd, versmald (les 4, 7)
+- V8 Snijpunt van twee lijnen (les 8, 11)
+- W3 Gegevens uit een bron halen (les 1, 10)
+- W4 Biomimicrie (les 1, 2, 11)
+
+Won't-have:
+- Versnellingsvector, kromme banen
+- Uitproduct
+- Vectoren in 3D
+- Neurale netwerken als wiskunde
+- Differentiaalvergelijkingen (ET 28)
