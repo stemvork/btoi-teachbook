@@ -4,7 +4,7 @@
 
 In deze module onderzoeken we hoe vectoren gebruikt kunnen worden om beweging en navigatie te beschrijven. Daarbij bestuderen we (een versimpelde versie van) de BeeNav-strategie voor kleine drones die de TU Delft publiceerde in het wetenschappelijke tijdschrift Nature. 
 
-:::{admonition} De centrale vraag
+:::{hint} De centrale vraag
 **Hoe nauwkeurig moet de navigatie van een drone zijn om weer in het geleerde thuisgebied terecht te komen?**
 :::
 
@@ -14,9 +14,7 @@ Door voorspellingen te doen, modellen op te stellen en te verfijnen, en door ber
 
 ## Wat leer je?
 
-````{admonition} Vectoren
-:class: note dropdown
-
+````{note .dropdown open=true} Vectoren
 Na deze module kun je onder andere:
 - een vector interpreteren als een grootheid met lengte en richting;
 - vectoren weergeven als pijlen en met kentallen;
@@ -27,9 +25,7 @@ Na deze module kun je onder andere:
 - het inproduct berekenen en gebruiken om hoeken tussen vectoren te onderzoeken.
 ````
 
-````{admonition} Modelleren
-:class: note dropdown
-
+:::{note .dropdown open=true} Modelleren
 Je leert:
 
 - aannames herkennen en formuleren;
@@ -39,11 +35,9 @@ Je leert:
 - resultaten terugvertalen naar het oorspronkelijke probleem;
 - beoordelen wat een model wel en niet laat zien;
 - een model op basis van resultaten bijstellen.
-````
+:::
 
-````{admonition} Wetenschappelijk onderzoek
-:class: note dropdown
-
+:::{note .dropdown open=true} Wetenschappelijk onderzoek
 Je leert op hoofdlijnen:
 
 - welk navigatieprobleem BeeNav probeert op te lossen;
@@ -51,8 +45,8 @@ Je leert op hoofdlijnen:
 - hoe visuele informatie kan helpen bij het terugvinden van een thuislocatie;
 - onderscheid maken tussen de echte drone, ons lesmodel en de uitkomsten van een simulatie.
 
-[](xref:concept-map)
-````
+Zie [Concept Map](#concept-map).
+:::
 
 # Deel 1 – Waar is thuis?
 # Deel 2 – Waar denkt de drone dat hij is?
